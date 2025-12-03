@@ -1,7 +1,8 @@
 <h1>Driver Mad — Web Game (HTML, CSS, JS)</h1>
-![driver](./mobil.png
-)
+
 Driver Mad adalah game mobil sederhana berbasis HTML, CSS, dan JavaScript, di mana pemain harus melewati rintangan dengan mengontrol tinggi suspensi mobil. Tantangannya adalah timing, stabilitas, dan kemampuan membaca bentuk obstacle.
+
+![driver](./mobil.png)
 
 Game ini terinspirasi dari mekanik “Driver Mad” versi mobile, tapi dibuat ulang (fan-made) dengan teknologi web tanpa engine tambahan.
 
